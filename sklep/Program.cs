@@ -10,6 +10,21 @@ namespace sklep
     {
         static void Main(string[] args)
         {
+            List<List<Node>> map = new List<List<Node>>();
+
+            map =
+            {
+                {new Node(0);};
+                { new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1)};
+                { new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1)};
+                { new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1)};
+                { new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1)};
+                { new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1)};
+                { new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1)};
+                { new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1); new Node("cukier", 1)};
+            }
+
+
         }
     }
 }
